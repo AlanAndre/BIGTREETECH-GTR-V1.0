@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"name": "Marlin-2.0.x_BTT_GTR_V1.0_12864p-16div-eeprom_Demo",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
